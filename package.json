@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/zen-browser/surfer#readme",
   "dependencies": {
-    "@resvg/resvg-js": "^1.4.0",
+    "@resvg/resvg-js": "^2.6.2",
     "async-icns": "^1.0.2",
     "axios": "^0.21.1",
     "chalk": "^4.1.0",
